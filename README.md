@@ -1,1 +1,0 @@
-# EV3_Clasificacion_CNN_MLP
